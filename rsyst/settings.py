@@ -26,7 +26,9 @@ SECRET_KEY = '4lgp*7w%8v&vggp4cw5=u+k1@30j5p&o7+btleu9+qc$t+0^n='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'agile-garden-51002.herokuapp.com',
+]
 
 
 # Application definition
